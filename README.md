@@ -7,6 +7,11 @@
 
 ![Thumbnail](THUMBNAIL.png)
 
+Original plugin by [potistudio](https://github.com/potistudio/NCS4AU).
+English plugin for the English version of AviUtl. <small>(The one with an Extra Pack.)</small>
+
+README Translation in draft.／README英訳を下書き中
+
 数々の有名楽曲をリリースしている、イギリスのEDMレーベル『[NCS (NoCopyrightSounds)](https://www.youtube.com/nocopyrightsounds)』。  
 彼らのYouTube動画に使用されているオーディオビジュアライザーを、AviUtlで再現できるスクリプトです。
 
@@ -24,6 +29,7 @@
 
 > [!IMPORTANT]  
 > 実行には`rikky_module`が必要です。
+> You will need `rikky_module` for this.
 
 ## ダウンロード
 
